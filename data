@@ -1,0 +1,25 @@
+{
+ "source": "GIKI Website",
+ "data": [
+ {
+ "section": "Admissions",
+ "title": "Undergraduate Admissions",
+ "content": "GIKI offers various undergraduate programs in engineering and sciences...",
+ "date": "YYYY-MM-DD", // if available
+ "url": "URL of the page"
+ },
+ {
+ "section": "Campus Life",
+ "title": "Hostel Facilities",
+ "content": "GIKI provides state-of-the-art hostel facilities with modern amenities...",
+ "url": "URL of the page"
+ },
+ {
+ "section": "News",
+ "title": "GIKI Hosts Annual Sports Gala",
+ "content": "The annual sports gala was held on campus with various events...",
+ "date": "YYYY-MM-DD",
+ "url": "URL of the page"
+ }
+ ]
+}
